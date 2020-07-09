@@ -29,7 +29,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: ![Castell Nos HRA - lost peatlands](https://drive.google.com/uc?export=download&id=1avaFes0b9UEx1p2sEOCQNU1kUcl-FT4k)
+title-img: "https://drive.google.com/uc?export=download&id=1avaFes0b9UEx1p2sEOCQNU1kUcl-FT4k"
 
 
 # --- Footer options --- #
