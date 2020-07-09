@@ -4,8 +4,7 @@
 title: Unofficial Lost Peatlands of South Wales project.
 
 # Short description of your site
-description: This is website compiled by Mike Shewring to host code and data from the Heritage Lottery Funded Lost Peatlands of South Wales project. The project is currently in its development stage (Summer 2020) and will hopefully commence the delivery stage in January 2021, pending a final decision on funding from HLF.
-
+description: This is website compiled by Mike Shewring to host code and data from the Heritage Lottery Funded Lost Peatlands of South Wales project. 
 # Your name to show in the footer
 author: Mike Shewring
 
@@ -22,14 +21,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "https://drive.google.com/uc?export=download&id=1avaFes0b9UEx1p2sEOCQNU1kUcl-FT4k"
+#title-img: "https://drive.google.com/uc?export=download&id=1avaFes0b9UEx1p2sEOCQNU1kUcl-FT4k"
 
 
 # --- Footer options --- #
@@ -98,7 +97,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/pic1.jpg"
 
 # --- Web Statistics Section --- #
 
