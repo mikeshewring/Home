@@ -16,8 +16,7 @@ author: Mike Shewring
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - lost peatlands: "https://github.com/mikeshewring/lostpeatlands"
   Author's home: "https://github.com/mikeshewring"
 
 # --- Logo --- #
