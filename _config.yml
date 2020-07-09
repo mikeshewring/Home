@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Unofficial Lost Peatlands of South Wales project.
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: This is website compiled by Mike Shewring to host code and data from the Heritage Lottery Funded Lost Peatlands of South Wales project. The project is currently in its development stage (Summer 2020) and will hopefully commence the delivery stage in January 2021, pending a final decision on funding from HLF.
 
 # Your name to show in the footer
-author: Some Person
+author: Mike Shewring
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://github.com/mikeshewring"
 
 # --- Logo --- #
 
@@ -29,7 +29,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: ![Castell Nos HRA - lost peatlands](https://drive.google.com/uc?export=download&id=1avaFes0b9UEx1p2sEOCQNU1kUcl-FT4k)
 
 
 # --- Footer options --- #
@@ -38,10 +38,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "mike.shewring@gmail.com"
+  github: "https://github.com/mikeshewring"
+  twitter: @mikeshewring
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
