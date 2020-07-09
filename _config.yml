@@ -1,7 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Unofficial Lost Peatlands of South Wales project.
+title: "@mikeshewring"
+description: "Ecologist and Ornithologist"
+#avatar: "/img/shaun-jackman-square.jpg"
+#avatarurl: "https://sjackman.ca/about-me/"
 
 # Short description of your site
 description: This is website compiled by Mike Shewring to host code and data from the Heritage Lottery Funded Lost Peatlands of South Wales project. 
