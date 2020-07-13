@@ -4,6 +4,8 @@ title: About me
 
 ---
 
-Experienced chartered ecologist with a track record in renewables and infrastructure development. Significant experience in the provision of ornithological advice, construction ecological risk management, wind farm bat impact assessment/ mitigation and upland habitat (peatland) restoration. 
+I am a highly experienced ecological consultant and chartered ecologist (CEcol) with a track record in providing ecological support and advice to renewables and infrastructure developments. 
 
-"https://www.linkedin.com/in/mike-shewring-47524524/?originalSubdomain=uk" 
+[Linkedin] (https://www.linkedin.com/in/mike-shewring-47524524/)
+
+
